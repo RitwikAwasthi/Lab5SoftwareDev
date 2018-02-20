@@ -2,6 +2,6 @@
 Software Dev Lab 5
 
 Ritwik Awasthi
-Partner: Corey Stephens
+This causes a merge conflict
 
 Lab 5 - Version Control Github
